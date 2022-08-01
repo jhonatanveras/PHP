@@ -20,7 +20,7 @@
                     <h3>Módulo 01</h3>
                     <ul>
                         <li>
-                            <a href="#">Exercício A</a>
+                            <a href="exercicios.php">Exercício A</a>
                             <a href="#">Exercício B</a>
                             <a href="#">Exercício C</a>
                         </li>
