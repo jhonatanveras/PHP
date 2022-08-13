@@ -1,6 +1,6 @@
 body.exercicio {
-  grid-template-rows: 120px 60px 1fr 60px;
-  grid-template-areas:
+    grid-template-rows: 120px 60px 1fr 60px;
+    grid-template-areas:
             "cabecalho"
             "navegacao"
             "principal"
@@ -9,6 +9,7 @@ body.exercicio {
 
 .principal {
     height: calc(100vh - 240px);
+    color: #f8f8f2;
 }
 
 .navegacao {
@@ -27,5 +28,17 @@ body.exercicio {
     background-color: #ff79c6;
     padding: 5px 10px;
     margin-right: 15px;
+}
+
+.conteudo {
+    font-size: 2rem;
+}
+
+.conteudo > .titulo {
+    font-size: 2.5rem;
+    font-weight: 300;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f8f8f2;
+    margin-bottom: 20px;
 }
 

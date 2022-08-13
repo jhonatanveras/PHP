@@ -77,8 +77,9 @@ body {
     flex-basis: 32%;
     margin-bottom: 20px;
     border-radius: 5px;
-    border: 2px solid ;
+    border: 2px solid;
 }
+
 .modulo > h3 {
     margin: 0px;
     color: #f8f8f2;
@@ -105,7 +106,7 @@ body {
     color: #f8f8f2;
 }
 
-.modulo> ul > li > a:hover {
+.modulo > ul > li > a:hover {
     background-color: #ff79c6;
 }
 
