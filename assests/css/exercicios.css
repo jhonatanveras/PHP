@@ -19,3 +19,13 @@ body.exercicio {
     background-color: #44475a;
 }
 
+.navegacao > a {
+    text-decoration: none;
+    color: #f8f8f2;
+    font-weight: 300;
+    font-size: 1.3rem;
+    background-color: #ff79c6;
+    padding: 5px 10px;
+    margin-right: 15px;
+}
+
