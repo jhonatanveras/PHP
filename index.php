@@ -17,11 +17,16 @@
     <div class="conteudo">
         <nav class="modulos">
             <div class="modulo">
-                <h3>Módulo 01</h3>
+                <h3>PHP Básico</h3>
                 <ul>
                     <li>
                         <a href="exercicios.php?dir=php-basico&file=ola">
-                            Olá PHP
+                            Aula 1: Olá PHP
+                        </a>
+                    </li>
+                    <li>
+                        <a href="exercicios.php?dir=php-basico&file=html">
+                            Aula 2: Integração HTML
                         </a>
                     </li>
                 </ul>
