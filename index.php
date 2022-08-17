@@ -29,6 +29,11 @@
                             Aula 2: Integração HTML
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicios.php?dir=php-basico&file=css">
+                            Aula 3: Integração CSS
+                        </a>
+                    </li>
                 </ul>
             </div>
         </nav>
