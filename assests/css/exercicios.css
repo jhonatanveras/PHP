@@ -39,6 +39,8 @@ body.exercicio {
     font-weight: 300;
     padding-bottom: 10px;
     border-bottom: 1px solid #f8f8f2;
+    border-bottom-color: #ff79c6;
+    color: #ff79c6;
     margin-bottom: 20px;
 }
 
