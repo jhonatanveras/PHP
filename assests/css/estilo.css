@@ -110,3 +110,14 @@ body {
     background-color: #ff79c6;
 }
 
+p.divisao {
+    color: #ff79c6;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+hr {
+    border-bottom-color: #ff79c6;
+    margin-top: 0px;
+}
+
